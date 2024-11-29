@@ -1,3 +1,5 @@
+Copyright (c) 2024 Jindou
+
 import pyautogui
 import time
 import threading
