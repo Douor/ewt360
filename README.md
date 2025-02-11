@@ -1,4 +1,4 @@
-### ewt360 最新版程序在New branchs下，不是main！！！
+# ewt360 最新版程序在New branchs下，不是main！！！
 这是一个升学e网通刷课程序。
 
 ## 谈谈学习
